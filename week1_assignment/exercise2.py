@@ -1,2 +1,2 @@
-var1 = 
-var2 = 
+var1 = 3
+var2 = 3
